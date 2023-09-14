@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a8a33123.css",
+    "main.js": "./static/js/main.5f05a5ce.js",
+    "static/js/787.1bb838f2.chunk.js": "./static/js/787.1bb838f2.chunk.js",
+    "static/media/Intro.mp4": "./static/media/Intro.27a664dcf8204dbab726.mp4",
+    "static/media/middle.mp4": "./static/media/middle.b1abd2fdccdd545b32fb.mp4",
+    "static/media/NEWS1.jpg": "./static/media/NEWS1.9245dc998fc6f50c5ce4.jpg",
+    "static/media/ImageMotion.jpg": "./static/media/ImageMotion.4cdcbab6aa93087783a1.jpg",
+    "static/media/NEWS2.jpeg": "./static/media/NEWS2.7cbcf0a493882bb3398b.jpeg",
+    "static/media/ford1-2.jpg": "./static/media/ford1-2.dca44e6669dd83359aaf.jpg",
+    "static/media/ford6-2.jpg": "./static/media/ford6-2.75eb1bd6b04bd1a707cc.jpg",
+    "static/media/ford5-3.jpg": "./static/media/ford5-3.0ad170251b89084eb2be.jpg",
+    "static/media/ford2-2.jpg": "./static/media/ford2-2.5f58f4589ed3ea555ec1.jpg",
+    "static/media/ford7-1.jpg": "./static/media/ford7-1.c9088c78287183b0a5c1.jpg",
+    "static/media/ford4-1.jpg": "./static/media/ford4-1.f76204da56ae253738e4.jpg",
+    "static/media/ford3-1.jpg": "./static/media/ford3-1.65035d39e77f7f33f1a8.jpg",
+    "static/media/ford5-2.jpg": "./static/media/ford5-2.1ea33223baf61d9c2aa1.jpg",
+    "static/media/ford1-3.jpg": "./static/media/ford1-3.f917c4c20c295d2cbec2.jpg",
+    "static/media/ford4-2.jpg": "./static/media/ford4-2.0e83cfdabb92e745537d.jpg",
+    "static/media/NEWS3.webp": "./static/media/NEWS3.3ee504f11ed6ffb33615.webp",
+    "static/media/ford5-1.jpg": "./static/media/ford5-1.c721afca5421080017b3.jpg",
+    "static/media/ford2-1.jpg": "./static/media/ford2-1.de85a45293ec0cddadb1.jpg",
+    "static/media/ford7-2.jpg": "./static/media/ford7-2.220f3f83680ad83d117a.jpg",
+    "static/media/ford1-1.jpg": "./static/media/ford1-1.b482b7b0418c50d3bc7c.jpg",
+    "static/media/ford6-1.jpg": "./static/media/ford6-1.f7f947447fa7e12dfded.jpg",
+    "index.html": "./index.html",
+    "main.a8a33123.css.map": "./static/css/main.a8a33123.css.map",
+    "main.5f05a5ce.js.map": "./static/js/main.5f05a5ce.js.map",
+    "787.1bb838f2.chunk.js.map": "./static/js/787.1bb838f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a33123.css",
+    "static/js/main.5f05a5ce.js"
+  ]
+}
